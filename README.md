@@ -59,6 +59,9 @@ If you're doing Tier 6, go back to the Merchant's Guild and determine if that ti
 This process will be repeated for all the builds listed on [Maxroll Corruption Tier List](https://maxroll.gg/last-epoch/tierlists/corruption-tier-list)
 (or at the very least S Tier and A Tier)
 
+> [!IMPORTANT]
+> DO NOT create a new rule for each affix, you should be adding these to your existing rules labeled [Item Type][T6] or [Item Type][T7]
+
 Once you've completed every build, you can select the `Export` button in the Loot Builder, then `Copy To Clipboard`. Submit this on my discord in the channel [#loot-filter-contributions](https://discord.gg/Tp79F3vwM6) *OR* request to contribute to the GitHub repo and I will provide further instruction on how to edit the master loot filter.
 
 -----------------------
